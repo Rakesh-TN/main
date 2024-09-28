@@ -9,3 +9,17 @@ z = 3j
 print(type(x))
 print(type(y))
 print(type(z))
+
+a = 160
+b = 40
+
+"""
+Addition - +
+Subtraction - -
+Multiplication - *
+Division - /
+Modulus - %
+Exponential - **
+Floor Division - //
+"""
+print(a*b)
